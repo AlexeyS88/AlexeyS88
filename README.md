@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @AlexeyS88
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning frontend
-
+## Технологии ##
 - **Языки программирования:** JavaScript, Go
 - **Фреймворки и библиотеки:** Vue, React
 - **Инструменты:** Git, Docker
